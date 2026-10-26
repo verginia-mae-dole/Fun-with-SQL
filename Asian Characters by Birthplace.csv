@@ -1,0 +1,71 @@
+﻿BirthCountry,BirthState,BirthCity,FamilyName,GivenName,Surname,Age,Gender,Nationality,FirstLanguage,SecondLanguage,Religion,Denomination,MartialArt
+China,,Beijing,Long,Jiahao,Long,24,M,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Baguazhang
+China,,Beijing,Long,Weihao,Long,20,M,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Xingyiquan
+China,,Shanghai,Wang,Lizhen,Wang,26,F,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Piguaquan
+China,,Shanghai,Wang,Jianjun,Wang,23,M,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Bajiquan
+China,,Shanghai,Wang,Lina,Wang,20,F,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Taijiquan
+China,Guangdong Province,Guangzhou,Ng,Chi-chung,Ng,21,M,Chinese,Cantonese,,Buddhism,Mahayana,Jeet kune do
+China,Hong Kong SAR,Hong Kong,Leung,Wing-hong,Leung,22,M,Hong Konger,Cantonese,,Buddhism,Mahayana,Wing chun
+China,Hong Kong SAR,Hong Kong,Leung,Wing-kin,Leung,22,M,Hong Konger,Cantonese,,Buddhism,Mahayana,Wing chun
+China,Hong Kong SAR,Hong Kong,Leung,Nga-ting,Leung,18,F,Hong Konger,Cantonese,,Buddhism,Mahayana,Jeet kune do
+China,Sichuan Province,Chengdu,Lei,Xianglian,Lei,25,F,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Xingyiquan
+China,Sichuan Province,Chengdu,Lei,Xiangling,Lei,21,F,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Taijiquan
+China,Sichuan Province,Chengdu,Lei,Junjie,Lei,17,M,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Baguazhang
+Indonesia,,Jakarta,Suparman,Bambang,Suparmanputra,24,M,Indonesian,Indonesian,Javanese,Islam,Sunni,Pencak Silat
+Indonesia,,Jakarta,Suparman,Wahid,Suparmanputra,22,M,Indonesian,Indonesian,Javanese,Islam,Sunni,Longquan 
+Indonesia,,Jakarta,Suparman,Dewi,Suparmanputri,20,F,Indonesian,Indonesian,Javanese,Islam,Sunni,Silat Melayu
+Indonesia,,Jakarta,Suparman,Siti,Suparmanputri,18,F,Indonesian,Indonesian,Javanese,Islam,Sunni,Karate
+Israel,,Tel Aviv,Shapiro,Rachel,Shapiro,17,F,Israeli,Hebrew,,Judaism,,Krav Maga
+Israel,,Tel Aviv,Shapiro,Ayala,Shapiro,15,F,Israeli,Hebrew,,Judaism,,Krav Maga
+Israel,,Tel Aviv,Shapiro,Devorah,Shapiro,13,F,Israeli,Hebrew,,Judaism,,Krav Maga
+Japan,,Fukuoka,Park,Mina,Park,23,F,Japanese,Japanese,Korean,Shintoism,,Hapkido
+Japan,,Fukuoka,Park,Masayoshi,Park,19,M,Japanese,Japanese,Korean,Shintoism,,Tang soo do
+Japan,,Nagoya,Kawaguchi,Yusuke,Kawaguchi,24,M,Japanese,Japanese,,Shintoism,,Aikido
+Japan,,Nagoya,Kawaguchi,Ryosuke,Kawaguchi,21,M,Japanese,Japanese,,Shintoism,,Ninjutsu
+Japan,,Osaka,Yamamoto,Sakura,Yamamoto,24,F,Japanese,Japanese,,Shintoism,,Judo
+Japan,,Osaka,Yamamoto,Tsubaki,Yamamoto,19,F,Japanese,Japanese,,Shintoism,,Karate
+Japan,,Sapporo,Ishii,Kiriko,Ishii,20,F,Japanese,Japanese,,Shintoism,,Aikido
+Japan,,Sapporo,Ishii,Hiroyuki,Ishii,18,M,Japanese,Japanese,,Shintoism,,Judo
+Japan,,Tokyo,Takahashi,Akiko,Takahashi,25,F,Japanese,Japanese,,Shintoism,,Ninjutsu
+Japan,,Tokyo,Takahashi,Fuyuko,Takahashi,22,F,Japanese,Japanese,,Shintoism,,Ninjutsu
+Japan,,Tokyo,Takahashi,Haruko,Takahashi,19,F,Japanese,Japanese,,Shintoism,,Ninjutsu
+Japan,,Yokohama,Kobayashi,Tyler,Kobayashi,25,M,Japanese,Japanese,American English,Shintoism,,Ninjutsu
+Japan,,Yokohama,Kobayashi,Jada,Kobayashi,23,F,Japanese,Japanese,American English,Shintoism,,Ninjutsu
+Palestine,West Bank,Jerusalem,al-Hashimi,Omar,al-Hashimi,18,M,Palestinian,Palestinian Arabic,,Islam,Sunni,Krav Maga
+Palestine,West Bank,Jerusalem,al-Hashimi,Aaliyah,al-Hashimi,16,F,Palestinian,Palestinian Arabic,,Islam,Sunni,Krav Maga
+Palestine,West Bank,Jerusalem,al-Hashimi,Samira,al-Hashimi,14,F,Palestinian,Palestinian Arabic,,Islam,Sunni,Krav Maga
+Philippines,,Manila,de la Cruz,Divina,de la Cruz,25,F,Filipino,Tagalog,Filipino English,Christianity,Roman Catholicism,Arnis
+Philippines,,Manila,de la Cruz,Teresa,de la Cruz,22,F,Filipino,Tagalog,Filipino English,Christianity,Roman Catholicism,Kickboxing
+Philippines,,Manila,de la Cruz,Cesar,de la Cruz,19,M,Filipino,Tagalog,Filipino English,Christianity,Roman Catholicism,Muay Thai
+Philippines,,Manila,de la Cruz,Ricardo,de la Cruz,16,M,Filipino,Tagalog,Filipino English,Christianity,Roman Catholicism,Pencak Silat
+Singapore,,Singapore,Xie,Xuefei,Xie,26,F,Singaporean,Singaporean Mandarin,Singaporean English,Buddhism,Mahayana,Shequan 
+Singapore,,Singapore,Xie,Xuehua,Xie,24,F,Singaporean,Singaporean Mandarin,Singaporean English,Buddhism,Mahayana,Taijiquan
+Singapore,,Singapore,Xie,Xuejuan,Xie,22,F,Singaporean,Singaporean Mandarin,Singaporean English,Buddhism,Mahayana,Bajiquan
+South Korea,,Busan,Yun,Dae-seong,Yun,23,M,South Korean,Korean,,Buddhism,Mahayana,Taekkyeon
+South Korea,,Busan,Yun,Hyeon-jeong,Yun,18,F,South Korean,Korean,,Buddhism,Mahayana,Taekwondo
+South Korea,,Incheon,Son,Gyeong-hui,Son,21,F,South Korean,Korean,,Buddhism,Mahayana,Taekwondo
+South Korea,,Incheon,Son,Jeong-hui,Son,19,F,South Korean,Korean,,Buddhism,Mahayana,Hapkido
+South Korea,,Incheon,Son,Min-ho,Son,17,M,South Korean,Korean,,Buddhism,Mahayana,Tang soo do
+South Korea,,Seoul,Kim,Ha-na,Kim,22,F,South Korean,Korean,,Christianity,Presbyterianism,Tang soo do
+South Korea,,Seoul,Kim,Du-ri,Kim,20,F,South Korean,Korean,,Christianity,Presbyterianism,Taekkyeon
+South Korea,,Seoul,Kim,Sa-rang,Kim,18,F,South Korean,Korean,,Christianity,Presbyterianism,Taekwondo
+Taiwan,,Taipei,Liu,Chin-lung,Liu,23,M,Taiwanese,Taiwanese Mandarin,Japanese,Buddhism,Mahayana,Jeet kune do
+Taiwan,,Taipei,Liu,Mei-feng,Liu,20,F,Taiwanese,Taiwanese Mandarin,Japanese,Buddhism,Mahayana,Bajiquan
+Taiwan,,Taipei,Liu,Mei-huang,Liu,20,F,Taiwanese,Taiwanese Mandarin,Japanese,Buddhism,Mahayana,Piguaquan
+Thailand,,Bangkok,Rungrueang,Somchai,Rungrueang,26,M,Thai,Thai,,Buddhism,Theravada,Muay Thai
+Thailand,,Bangkok,Rungrueang,Pornthip,Rungrueang,23,F,Thai,Thai,,Buddhism,Theravada,Silat Melayu
+Thailand,,Bangkok,Rungrueang,Chanchai,Rungrueang,20,M,Thai,Thai,,Buddhism,Theravada,Muay Thai
+Thailand,,Bangkok,Rungrueang,Sakchai,Rungrueang,17,M,Thai,Thai,,Buddhism,Theravada,Pencak Silat
+Thailand,,Chiang Mai,Chaisongkhram,Itthiphon,Chaisongkhram,21,M,Thai,Thai,,Buddhism,Theravada,Muay Thai
+Thailand,,Chiang Mai,Chaisongkhram,Chaloemphon,Chaisongkhram,18,M,Thai,Thai,,Buddhism,Theravada,Silat Melayu
+Thailand,,Chiang Mai,Chaisongkhram,Jiraphon,Chaisongkhram,15,M,Thai,Thai,,Buddhism,Theravada,Pencak Silat
+Turkey,,Istanbul,Bolukbasi,Kivanc,Bolukbasi,20,M,Turkish,Turkish,,Islam,Sunni,Pankration
+Turkey,,Istanbul,Bolukbasi,Sevinc,Bolukbasi,20,F,Turkish,Turkish,,Islam,Sunni,Kickboxing
+Turkey,,Istanbul,Bolukbasi,Ayla,Bolukbasi,18,F,Turkish,Turkish,,Islam,Sunni,MMA
+Turkey,,Istanbul,Bolukbasi,Damla,Bolukbasi,16,F,Turkish,Turkish,,Islam,Sunni,Boxing
+Vietnam,,Hanoi,Dang,Khoi,Dang,20,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Shequan 
+Vietnam,,Hanoi,Dang,Cong,Dang,16,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Baoquan 
+Vietnam,,Ho Chi Minh City,Nguyen,Duong,Nguyen,27,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Wing chun
+Vietnam,,Ho Chi Minh City,Nguyen,Vinh,Nguyen,25,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Baoquan 
+Vietnam,,Ho Chi Minh City,Nguyen,Quyen,Nguyen,23,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Huquan 
+Vietnam,,Ho Chi Minh City,Nguyen,Hieu,Nguyen,21,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Jeet kune do
