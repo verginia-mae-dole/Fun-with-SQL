@@ -1,0 +1,335 @@
+﻿BirthCountry,BirthState,BirthCity,FamilyName,GivenName,Surname,Age,Gender,Nationality,FirstLanguage,SecondLanguage,Religion,Denomination,MartialArt
+Albania,,Tirana,Rexhaj,Jehona,Rexhaj,20,F,Albanian,Albanian,,Islam,Sunni,Pankration
+Albania,,Tirana,Rexhaj,Thelleza,Rexhaj,17,F,Albanian,Albanian,,Islam,Sunni,Hapkido
+Albania,,Tirana,Rexhaj,Flutura,Rexhaj,14,F,Albanian,Albanian,,Islam,Sunni,Tang soo do
+Albania,,Tirana,Rexhaj,Besnik,Rexhaj,11,M,Albanian,Albanian,,Islam,Sunni,Silat Melayu
+Argentina,,Buenos Aires,Ferreyra,Eugenio,Ferreyra,25,M,Argentinian,Argentinian Spanish,,Christianity,Roman Catholicism,Pankration
+Argentina,,Buenos Aires,Ferreyra,Eulalia,Ferreyra,23,F,Argentinian,Argentinian Spanish,,Christianity,Roman Catholicism,Muay Thai
+Argentina,,Buenos Aires,Ferreyra,Eustaquio,Ferreyra,21,M,Argentinian,Argentinian Spanish,,Christianity,Roman Catholicism,Savate
+Australia,New South Wales,Sydney,Turner,Keith,Turner,25,M,Australian,Australian English,,Christianity,Anglicanism,Karate
+Australia,New South Wales,Sydney,Turner,Kevin,Turner,22,M,Australian,Australian English,,Christianity,Anglicanism,Karate
+Australia,New South Wales,Sydney,Turner,Kylie,Turner,19,F,Australian,Australian English,,Christianity,Anglicanism,BJJ
+Australia,New South Wales,Sydney,Turner,Kirk,Turner,16,M,Australian,Australian English,,Christianity,Anglicanism,Judo
+Australia,Queensland,Brisbane,D'Souza,Vidya,D'Souza,25,F,Australian,Australian English,Konkani,Christianity,Roman Catholicism,Boxing
+Australia,Queensland,Brisbane,D'Souza,Anjali,D'Souza,23,F,Australian,Australian English,Konkani,Christianity,Roman Catholicism,Kickboxing
+Australia,Queensland,Brisbane,D'Souza,Puja,D'Souza,21,F,Australian,Australian English,Konkani,Christianity,Roman Catholicism,Pencak Silat
+Australia,Queensland,Brisbane,D'Souza,Aarti,D'Souza,19,F,Australian,Australian English,Konkani,Christianity,Roman Catholicism,Muay Thai
+Australia,Victoria,Melbourne,Williams,Miranda,Williams,21,F,Australian,Australian English,,Christianity,Anglicanism,BJJ
+Australia,Western Australia,Perth,Prinsloo,Melissa,Prinsloo,24,F,Australian,Australian English,Afrikaans,Christianity,Anglicanism,Pankration
+Australia,Western Australia,Perth,Prinsloo,Oliver,Prinsloo,22,M,Australian,Australian English,Afrikaans,Christianity,Anglicanism,Wrestling
+Australia,Western Australia,Perth,Prinsloo,Rebecca,Prinsloo,20,F,Australian,Australian English,Afrikaans,Christianity,Anglicanism,Savate
+Australia,Western Australia,Perth,Prinsloo,Abigail,Prinsloo,18,F,Australian,Australian English,Afrikaans,Christianity,Anglicanism,Aikido
+Austria,,Vienna,Heilig,Cacilia,Heilig,19,F,Austrian,German,,Christianity,Roman Catholicism,Baguazhang
+Austria,,Vienna,Heilig,Claudia,Heilig,17,F,Austrian,German,,Christianity,Roman Catholicism,Xingyiquan
+Austria,,Vienna,Heilig,Otto,Heilig,15,M,Austrian,German,,Christianity,Roman Catholicism,Taijiquan
+Belarus,,Minsk,Orlovsky,Tatiana,Orlovskaya,25,F,Belarusian,Belarusian,Russian,Christianity,Eastern Orthodoxy,Karate
+Belarus,,Minsk,Orlovsky,Leonid,Orlovsky,22,M,Belarusian,Belarusian,Russian,Christianity,Eastern Orthodoxy,Xingyiquan
+Belarus,,Minsk,Orlovsky,Irina,Orlovskaya,19,F,Belarusian,Belarusian,Russian,Christianity,Eastern Orthodoxy,Baguazhang
+Belarus,,Minsk,Orlovsky,Vladimir,Orlovsky,16,M,Belarusian,Belarusian,Russian,Christianity,Eastern Orthodoxy,Judo
+Belgium,,Brussels,Goossens,Charlotte,Goossens,20,F,Belgian,Dutch,European French,Christianity,Roman Catholicism,Bajiquan
+Belgium,,Brussels,Goossens,Christophe,Goossens,17,M,Belgian,Dutch,European French,Christianity,Roman Catholicism,Jeet kune do
+Belgium,,Brussels,Goossens,Chloe,Goossens,14,F,Belgian,Dutch,European French,Christianity,Roman Catholicism,BJJ
+Brazil,Rio de Janeiro,Rio de Janeiro,Silva,Thais,Silva,25,F,Brazilian,Brazilian Portuguese,,Christianity,Roman Catholicism,BJJ
+Brazil,Rio de Janeiro,Rio de Janeiro,Silva,Altair,Silva,22,M,Brazilian,Brazilian Portuguese,,Christianity,Roman Catholicism,Capoeira
+Brazil,Rio de Janeiro,Rio de Janeiro,Silva,Joao,Silva,19,M,Brazilian,Brazilian Portuguese,,Christianity,Roman Catholicism,BJJ
+Brazil,Rio de Janeiro,Rio de Janeiro,Silva,Vania,Silva,16,F,Brazilian,Brazilian Portuguese,,Christianity,Roman Catholicism,Capoeira
+Brazil,Sao Paulo,Sao Paulo,Fukuhara,Guilherme,Fukuhara,18,M,Brazilian,Brazilian Portuguese,Japanese,Christianity,Roman Catholicism,Ninjutsu
+Bulgaria,,Sofia,Dobrev,Tsvetana,Dobreva,26,F,Bulgarian,Bulgarian,,Christianity,Eastern Orthodoxy,Pankration
+Bulgaria,,Sofia,Dobrev,Bozhidar,Dobrev,22,M,Bulgarian,Bulgarian,,Christianity,Eastern Orthodoxy,MMA
+Bulgaria,,Sofia,Dobrev,Zornitsa,Dobreva,18,F,Bulgarian,Bulgarian,,Christianity,Eastern Orthodoxy,Boxing
+Bulgaria,,Sofia,Dobrev,Stoyan,Dobrev,14,M,Bulgarian,Bulgarian,,Christianity,Eastern Orthodoxy,Kickboxing
+Canada,Alberta,Calgary,Lewis,Candace,Lewis,17,F,Canadian,Canadian English,,Christianity,Anglicanism,Taekkyeon
+Canada,Alberta,Calgary,Lewis,Cassandra,Lewis,14,F,Canadian,Canadian English,,Christianity,Anglicanism,BJJ
+Canada,British Columbia,Vancouver,Gupta,Raja,Gupta,25,M,Canadian,Canadian English,Hindi,Hinduism,,Boxing
+Canada,British Columbia,Vancouver,Gupta,Rohan,Gupta,23,M,Canadian,Canadian English,Hindi,Hinduism,,Muay Thai
+Canada,British Columbia,Vancouver,Gupta,Ravi,Gupta,21,M,Canadian,Canadian English,Hindi,Hinduism,,Pankration
+Canada,British Columbia,Vancouver,Gupta,Priya,Gupta,19,F,Canadian,Canadian English,Hindi,Hinduism,,Savate
+Canada,Ontario,Ottawa,Maalouf,Faris,Maalouf,19,M,Canadian,Canadian English,Lebanese Arabic,Christianity,Maronite Catholicism,Krav Maga
+Canada,Ontario,Ottawa,Maalouf,Rami,Maalouf,17,M,Canadian,Canadian English,Lebanese Arabic,Christianity,Maronite Catholicism,Krav Maga
+Canada,Ontario,Ottawa,Maalouf,Majda,Maalouf,15,F,Canadian,Canadian English,Lebanese Arabic,Christianity,Maronite Catholicism,Krav Maga
+Canada,Ontario,Toronto,Choi,Jin-ju,Choi,25,F,Canadian,Canadian English,Korean,Christianity,Presbyterianism,Taekkyeon
+Canada,Ontario,Toronto,Choi,Ha-neul,Choi,22,M,Canadian,Canadian English,Korean,Christianity,Presbyterianism,Taekwondo
+Canada,Ontario,Toronto,Choi,So-ra,Choi,19,F,Canadian,Canadian English,Korean,Christianity,Presbyterianism,Tang soo do
+Canada,Quebec,Montreal,Bouchard,Cyril,Bouchard,28,M,Canadian,Canadian French,,Christianity,Roman Catholicism,Krav Maga
+Canada,Quebec,Montreal,Bouchard,Genevieve,Bouchard,25,F,Canadian,Canadian French,,Christianity,Roman Catholicism,Krav Maga
+Canada,Quebec,Montreal,Bouchard,Adelaide,Bouchard,22,F,Canadian,Canadian French,,Christianity,Roman Catholicism,Krav Maga
+Chile,,Santiago,Guerrero,Braian,Guerrero,21,M,Chilean,Chilean Spanish,,Christianity,Roman Catholicism,MMA
+Chile,,Santiago,Guerrero,Atilio,Guerrero,19,M,Chilean,Chilean Spanish,,Christianity,Roman Catholicism,Capoeira
+Chile,,Santiago,Guerrero,Diana,Guerrero,17,F,Chilean,Chilean Spanish,,Christianity,Roman Catholicism,BJJ
+Chile,,Santiago,Guerrero,Isabela,Guerrero,15,M,Chilean,Chilean Spanish,,Christianity,Roman Catholicism,Xingyiquan
+China,,Beijing,Long,Jiahao,Long,24,M,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Baguazhang
+China,,Beijing,Long,Weihao,Long,20,M,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Xingyiquan
+China,,Shanghai,Wang,Lizhen,Wang,26,F,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Piguaquan
+China,,Shanghai,Wang,Jianjun,Wang,23,M,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Bajiquan
+China,,Shanghai,Wang,Lina,Wang,20,F,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Taijiquan
+China,Guangdong Province,Guangzhou,Ng,Chi-chung,Ng,21,M,Chinese,Cantonese,,Buddhism,Mahayana,Jeet kune do
+China,Hong Kong SAR,Hong Kong,Leung,Wing-hong,Leung,22,M,Hong Konger,Cantonese,,Buddhism,Mahayana,Wing chun
+China,Hong Kong SAR,Hong Kong,Leung,Wing-kin,Leung,22,M,Hong Konger,Cantonese,,Buddhism,Mahayana,Wing chun
+China,Hong Kong SAR,Hong Kong,Leung,Nga-ting,Leung,18,F,Hong Konger,Cantonese,,Buddhism,Mahayana,Jeet kune do
+China,Sichuan Province,Chengdu,Lei,Xianglian,Lei,25,F,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Xingyiquan
+China,Sichuan Province,Chengdu,Lei,Xiangling,Lei,21,F,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Taijiquan
+China,Sichuan Province,Chengdu,Lei,Junjie,Lei,17,M,Chinese,Chinese Mandarin,,Buddhism,Mahayana,Baguazhang
+Colombia,,Bogota,Trujillo,Gracia,Trujillo,23,F,Colombian,Colombian Spanish,,Christianity,Roman Catholicism,Kickboxing
+Colombia,,Bogota,Trujillo,Carmelo,Trujillo,20,M,Colombian,Colombian Spanish,,Christianity,Roman Catholicism,Wrestling
+Colombia,,Bogota,Trujillo,Pablo,Trujillo,17,M,Colombian,Colombian Spanish,,Christianity,Roman Catholicism,Boxing
+Croatia,,Zagreb,Popovic,Atanasija,Popovic,20,F,Croatian,Croatian,,Christianity,Roman Catholicism,Bajiquan
+Croatia,,Zagreb,Popovic,Antonija,Popovic,18,F,Croatian,Croatian,,Christianity,Roman Catholicism,Piguaquan
+Croatia,,Zagreb,Popovic,Andrija,Popovic,16,M,Croatian,Croatian,,Christianity,Roman Catholicism,Taekwondo
+Croatia,,Zagreb,Popovic,Arijana,Popovic,14,F,Croatian,Croatian,,Christianity,Roman Catholicism,Wing chun
+Czechia,,Prague,Horak,Blazena,Horakova,25,F,Czech,Czech,,Christianity,Roman Catholicism,Muay Thai
+Czechia,,Prague,Horak,Erik,Horak,23,M,Czech,Czech,,Christianity,Roman Catholicism,Pencak Silat
+Czechia,,Prague,Horak,Martin,Horak,21,M,Czech,Czech,,Christianity,Roman Catholicism,Wrestling
+Czechia,,Prague,Horak,Ruzena,Horakova,19,F,Czech,Czech,,Christianity,Roman Catholicism,Kickboxing
+Denmark,,Copenhagen,Ostergaard,Birgitta,Ostergaard,21,F,Danish,Danish,,Christianity,Lutheranism,Taekkyeon
+Denmark,,Copenhagen,Ostergaard,Agnes,Ostergaard,17,F,Danish,Danish,,Christianity,Lutheranism,Muay Thai
+Estonia,,Tallinn,Magi,Karoliina,Magi,19,F,Estonian,Estonian,,Christianity,Lutheranism,Systema
+Estonia,,Tallinn,Magi,Elviira,Magi,15,F,Estonian,Estonian,,Christianity,Lutheranism,Hapkido
+Estonia,,Tallinn,Magi,Toomas,Magi,11,M,Estonian,Estonian,,Christianity,Lutheranism,Sambo
+Faroe Islands,,Torshavn,Olafsson,Hjortur,Olafsson,21,M,Faroese,Faroese,Danish,Christianity,Lutheranism,MMA
+Faroe Islands,,Torshavn,Olafsson,Solja,Olafsdottir,17,F,Faroese,Faroese,Danish,Christianity,Lutheranism,BJJ
+Finland,,Helsinki,Lehtonen,Eveliina,Lehtonen,21,F,Finnish,Finnish,,Christianity,Lutheranism,Systema
+Finland,,Helsinki,Lehtonen,Yrjo,Lehtonen,19,M,Finnish,Finnish,,Christianity,Lutheranism,Sambo
+Finland,,Helsinki,Lehtonen,Joonatan,Lehtonen,17,M,Finnish,Finnish,,Christianity,Lutheranism,Huquan 
+Finland,,Helsinki,Lehtonen,Vaino,Lehtonen,15,M,Finnish,Finnish,,Christianity,Lutheranism,Longquan 
+France,,Marseille,Sahnoun,Said,Sahnoun,24,M,French,Maghrebi Arabic,Maghrebi French,Islam,Sunni,Judo
+France,,Marseille,Sahnoun,Aicha,Sahnoun,22,F,French,Maghrebi Arabic,Maghrebi French,Islam,Sunni,Aikido
+France,,Marseille,Sahnoun,Leila,Sahnoun,20,F,French,Maghrebi Arabic,Maghrebi French,Islam,Sunni,Taekwondo
+France,,Marseille,Sahnoun,Yasmine,Sahnoun,18,F,French,Maghrebi Arabic,Maghrebi French,Islam,Sunni,Hapkido
+France,,Paris,Chevalier,Celestine,Chevalier,22,F,French,European French,,Christianity,Roman Catholicism,Savate
+France,,Paris,Chevalier,Beatrice,Chevalier,20,F,French,European French,,Christianity,Roman Catholicism,Judo
+France,,Paris,Chevalier,Remy,Chevalier,18,M,French,European French,,Christianity,Roman Catholicism,Karate
+France,,Paris,Chevalier,Coralie,Chevalier,16,F,French,European French,,Christianity,Roman Catholicism,Wing chun
+Germany,,Berlin,Jager,Bernhard,Jager,25,M,German,German,,Christianity,Lutheranism,MMA
+Germany,,Berlin,Jager,Leonhard,Jager,23,M,German,German,,Christianity,Lutheranism,Wrestling
+Germany,,Berlin,Jager,Arnold,Jager,21,M,German,German,,Christianity,Lutheranism,Pankration
+Germany,,Berlin,Jager,Hedwig,Jager,19,F,German,German,,Christianity,Lutheranism,Savate
+Germany,,Hamburg,Schroder,Gertrude,Schroder,18,F,German,German,Low German,Christianity,Lutheranism,Baguazhang
+Germany,,Hamburg,Schroder,Dorthe,Schroder,14,F,German,German,Low German,Christianity,Lutheranism,Taijiquan
+Germany,Bavaria,Munich,Muller,Elisabeth,Muller,18,F,German,German,,Christianity,Roman Catholicism,Bajiquan
+Germany,Bavaria,Munich,Muller,Dieter,Muller,16,M,German,German,,Christianity,Roman Catholicism,Piguaquan
+Germany,Bavaria,Munich,Muller,Walter,Muller,14,M,German,German,,Christianity,Roman Catholicism,Wing chun
+Greece,,Athens,Xanthopoulos,Zacharias,Xanthopoulos,24,M,Greek,Greek,,Christianity,Eastern Orthodoxy,Wrestling
+Greece,,Athens,Xanthopoulos,Aglaia,Xanthopoulou,22,F,Greek,Greek,,Christianity,Eastern Orthodoxy,Pankration
+Greece,,Athens,Xanthopoulos,Evangelos,Xanthopoulos,20,M,Greek,Greek,,Christianity,Eastern Orthodoxy,MMA
+Greece,,Athens,Xanthopoulos,Thalia,Xanthopoulou,18,F,Greek,Greek,,Christianity,Eastern Orthodoxy,Tang soo do
+Hungary,,Budapest,Csaszar,Gyozo,Csaszar,21,M,Hungarian,Hungarian,,Christianity,Roman Catholicism,Huquan 
+Hungary,,Budapest,Csaszar,Attila,Csaszar,19,M,Hungarian,Hungarian,,Christianity,Roman Catholicism,Baoquan 
+Hungary,,Budapest,Csaszar,Bela,Csaszar,17,M,Hungarian,Hungarian,,Christianity,Roman Catholicism,Longquan 
+Hungary,,Budapest,Csaszar,Kornelia,Csaszar,15,F,Hungarian,Hungarian,,Christianity,Roman Catholicism,Shequan 
+Iceland,,Reykjavik,Leifsson,Bjork,Leifsdottir,20,F,Icelandic,Icelandic,,Christianity,Lutheranism,MMA
+Iceland,,Reykjavik,Leifsson,Snorri,Leifsson,18,M,Icelandic,Icelandic,,Christianity,Lutheranism,Wrestling
+Indonesia,,Jakarta,Suparman,Bambang,Suparmanputra,24,M,Indonesian,Indonesian,Javanese,Islam,Sunni,Pencak Silat
+Indonesia,,Jakarta,Suparman,Wahid,Suparmanputra,22,M,Indonesian,Indonesian,Javanese,Islam,Sunni,Longquan 
+Indonesia,,Jakarta,Suparman,Dewi,Suparmanputri,20,F,Indonesian,Indonesian,Javanese,Islam,Sunni,Silat Melayu
+Indonesia,,Jakarta,Suparman,Siti,Suparmanputri,18,F,Indonesian,Indonesian,Javanese,Islam,Sunni,Karate
+Ireland,,Dublin,O'Connell,Padraigin,O'Connell,25,F,Irish,Irish English,,Christianity,Roman Catholicism,Wing chun
+Ireland,,Dublin,O'Connell,Tiarnan,O'Connell,22,M,Irish,Irish English,,Christianity,Roman Catholicism,Karate
+Ireland,,Dublin,O'Connell,Siobhan,O'Connell,19,F,Irish,Irish English,,Christianity,Roman Catholicism,Taekwondo
+Ireland,,Dublin,O'Connell,Saoirse,O'Connell,16,F,Irish,Irish English,,Christianity,Roman Catholicism,Muay Thai
+Israel,,Tel Aviv,Shapiro,Rachel,Shapiro,17,F,Israeli,Hebrew,,Judaism,,Krav Maga
+Israel,,Tel Aviv,Shapiro,Ayala,Shapiro,15,F,Israeli,Hebrew,,Judaism,,Krav Maga
+Israel,,Tel Aviv,Shapiro,Devorah,Shapiro,13,F,Israeli,Hebrew,,Judaism,,Krav Maga
+Italy,,Milan,Bellucci,Letizia,Bellucci,20,F,Italian,Italian,,Christianity,Roman Catholicism,Baguazhang
+Italy,,Milan,Bellucci,Donatello,Bellucci,18,M,Italian,Italian,,Christianity,Roman Catholicism,Aikido
+Italy,,Milan,Bellucci,Alessandro,Bellucci,16,M,Italian,Italian,,Christianity,Roman Catholicism,Taekkyeon
+Italy,,Milan,Bellucci,Lorenzo,Bellucci,14,M,Italian,Italian,,Christianity,Roman Catholicism,Silat Melayu
+Italy,,Rome,Martinelli,Stefano,Martinelli,26,M,Italian,Italian,,Christianity,Roman Catholicism,Karate
+Italy,,Rome,Martinelli,Giulia,Martinelli,23,F,Italian,Italian,,Christianity,Roman Catholicism,Piguaquan
+Italy,,Rome,Martinelli,Renato,Martinelli,20,M,Italian,Italian,,Christianity,Roman Catholicism,Pencak Silat
+Italy,,Rome,Martinelli,Emiliano,Martinelli,17,M,Italian,Italian,,Christianity,Roman Catholicism,Taijiquan
+Japan,,Fukuoka,Park,Mina,Park,23,F,Japanese,Japanese,Korean,Shintoism,,Hapkido
+Japan,,Fukuoka,Park,Masayoshi,Park,19,M,Japanese,Japanese,Korean,Shintoism,,Tang soo do
+Japan,,Nagoya,Kawaguchi,Yusuke,Kawaguchi,24,M,Japanese,Japanese,,Shintoism,,Aikido
+Japan,,Nagoya,Kawaguchi,Ryosuke,Kawaguchi,21,M,Japanese,Japanese,,Shintoism,,Ninjutsu
+Japan,,Osaka,Yamamoto,Sakura,Yamamoto,24,F,Japanese,Japanese,,Shintoism,,Judo
+Japan,,Osaka,Yamamoto,Tsubaki,Yamamoto,19,F,Japanese,Japanese,,Shintoism,,Karate
+Japan,,Sapporo,Ishii,Kiriko,Ishii,20,F,Japanese,Japanese,,Shintoism,,Aikido
+Japan,,Sapporo,Ishii,Hiroyuki,Ishii,18,M,Japanese,Japanese,,Shintoism,,Judo
+Japan,,Tokyo,Takahashi,Akiko,Takahashi,25,F,Japanese,Japanese,,Shintoism,,Ninjutsu
+Japan,,Tokyo,Takahashi,Fuyuko,Takahashi,22,F,Japanese,Japanese,,Shintoism,,Ninjutsu
+Japan,,Tokyo,Takahashi,Haruko,Takahashi,19,F,Japanese,Japanese,,Shintoism,,Ninjutsu
+Japan,,Yokohama,Kobayashi,Tyler,Kobayashi,25,M,Japanese,Japanese,American English,Shintoism,,Ninjutsu
+Japan,,Yokohama,Kobayashi,Jada,Kobayashi,23,F,Japanese,Japanese,American English,Shintoism,,Ninjutsu
+Latvia,,Riga,Berzins,Klara,Berzina,20,F,Latvian,Latvian,,Christianity,Lutheranism,Systema
+Latvia,,Riga,Berzins,Arturs,Berzins,18,M,Latvian,Latvian,,Christianity,Lutheranism,Sambo
+Latvia,,Riga,Berzins,Filips,Berzins,16,M,Latvian,Latvian,,Christianity,Lutheranism,MMA
+Latvia,,Riga,Berzins,Lilija,Berzina,14,F,Latvian,Latvian,,Christianity,Lutheranism,Taekwondo
+Lithuania,,Vilnius,Kazlauskas,Jokubas,Kazlauskas,21,M,Lithuanian,Lithuanian,,Christianity,Roman Catholicism,Sambo
+Lithuania,,Vilnius,Kazlauskas,Grazina,Kazlauskaite,18,F,Lithuanian,Lithuanian,,Christianity,Roman Catholicism,Systema
+Lithuania,,Vilnius,Kazlauskas,Ernesta,Kazlauskaite,15,F,Lithuanian,Lithuanian,,Christianity,Roman Catholicism,Savate
+Lithuania,,Vilnius,Kazlauskas,Lukas,Kazlauskas,12,M,Lithuanian,Lithuanian,,Christianity,Roman Catholicism,Wrestling
+Madagascar,,Antananarivo,Anjakanjanahary,Dieudonne,Anjakanjanahary,21,M,Malagasy,Malagasy,,Christianity,Roman Catholicism,Moraingy
+Mexico,,Mexico City,Rodriguez,Pedro,Rodriguez,27,M,Mexican,Mexican Spanish,,Christianity,Roman Catholicism,Lucha libre
+Mexico,,Mexico City,Rodriguez,Sergio,Rodriguez,25,M,Mexican,Mexican Spanish,,Christianity,Roman Catholicism,Lucha libre
+Mexico,,Mexico City,Rodriguez,Eduardo,Rodriguez,23,M,Mexican,Mexican Spanish,,Christianity,Roman Catholicism,Lucha libre
+Mexico,,Mexico City,Rodriguez,Diego,Rodriguez,21,M,Mexican,Mexican Spanish,,Christianity,Roman Catholicism,Lucha libre
+Monaco,,Monaco,Dufort,Berenice,Dufort,19,F,Monegasque,European French,,Christianity,Roman Catholicism,Savate
+Monaco,,Monaco,Dufort,Lucienne,Dufort,17,F,Monegasque,European French,,Christianity,Roman Catholicism,Hapkido
+Monaco,,Monaco,Dufort,Jeannette,Dufort,15,F,Monegasque,European French,,Christianity,Roman Catholicism,Bajiquan
+Monaco,,Monaco,Dufort,Herve,Dufort,13,M,Monegasque,European French,,Christianity,Roman Catholicism,Silat Melayu
+Netherlands,,Amsterdam,van der Meer,Edith,van der Meer,23,F,Dutch,Dutch,,Christianity,Lutheranism,Bajiquan
+Netherlands,,Amsterdam,van der Meer,Annette,van der Meer,21,F,Dutch,Dutch,,Christianity,Lutheranism,Piguaquan
+Netherlands,,Amsterdam,van der Meer,Nicolaas,van der Meer,19,M,Dutch,Dutch,,Christianity,Lutheranism,Judo
+Netherlands,,Amsterdam,van der Meer,Famke,van der Meer,17,F,Dutch,Dutch,,Christianity,Lutheranism,Hapkido
+New Zealand,,Auckland,Smith,Trevor,Smith,24,M,New Zealander,New Zealander English,,Christianity,Anglicanism,Tang soo do
+New Zealand,,Auckland,Smith,Meredith,Smith,22,F,New Zealander,New Zealander English,,Christianity,Anglicanism,Hapkido
+New Zealand,,Auckland,Smith,Wesley,Smith,20,M,New Zealander,New Zealander English,,Christianity,Anglicanism,Aikido
+Norway,,Oslo,Gundersen,Matthias,Gundersen,19,M,Norwegian,Norwegian,,Christianity,Lutheranism,Huquan 
+Norway,,Oslo,Gundersen,Havard,Gundersen,16,M,Norwegian,Norwegian,,Christianity,Lutheranism,Longquan 
+Norway,,Oslo,Gundersen,Tobias,Gundersen,13,M,Norwegian,Norwegian,,Christianity,Lutheranism,Bajiquan
+Palestine,West Bank,Jerusalem,al-Hashimi,Omar,al-Hashimi,18,M,Palestinian,Palestinian Arabic,,Islam,Sunni,Krav Maga
+Palestine,West Bank,Jerusalem,al-Hashimi,Aaliyah,al-Hashimi,16,F,Palestinian,Palestinian Arabic,,Islam,Sunni,Krav Maga
+Palestine,West Bank,Jerusalem,al-Hashimi,Samira,al-Hashimi,14,F,Palestinian,Palestinian Arabic,,Islam,Sunni,Krav Maga
+Peru,,Lima,Quispe,Miguel,Quispe,24,M,Peruvian,Peruvian Spanish,Quechua,Christianity,Roman Catholicism,MMA
+Peru,,Lima,Quispe,Daniela,Quispe,22,F,Peruvian,Peruvian Spanish,Quechua,Christianity,Roman Catholicism,Boxing
+Peru,,Lima,Quispe,Gabriel,Quispe,20,M,Peruvian,Peruvian Spanish,Quechua,Christianity,Roman Catholicism,Wrestling
+Peru,,Lima,Quispe,Rafael,Quispe,18,M,Peruvian,Peruvian Spanish,Quechua,Christianity,Roman Catholicism,Kickboxing
+Philippines,,Manila,de la Cruz,Divina,de la Cruz,25,F,Filipino,Tagalog,Filipino English,Christianity,Roman Catholicism,Arnis
+Philippines,,Manila,de la Cruz,Teresa,de la Cruz,22,F,Filipino,Tagalog,Filipino English,Christianity,Roman Catholicism,Kickboxing
+Philippines,,Manila,de la Cruz,Cesar,de la Cruz,19,M,Filipino,Tagalog,Filipino English,Christianity,Roman Catholicism,Muay Thai
+Philippines,,Manila,de la Cruz,Ricardo,de la Cruz,16,M,Filipino,Tagalog,Filipino English,Christianity,Roman Catholicism,Pencak Silat
+Poland,,Krakow,Szczepanowicz,Tymoteusz,Szczepanowicz,19,M,Polish,Polish,,Christianity,Roman Catholicism,Aikido
+Poland,,Krakow,Szczepanowicz,Ambrozy,Szczepanowicz,17,M,Polish,Polish,,Christianity,Roman Catholicism,Hapkido
+Poland,,Krakow,Szczepanowicz,Olga,Szczepanowicz,15,F,Polish,Polish,,Christianity,Roman Catholicism,Longquan 
+Poland,,Warsaw,Lipinski,Arkadiusz,Lipinski,27,M,Polish,Polish,,Christianity,Roman Catholicism,Savate
+Poland,,Warsaw,Lipinski,Zofia,Lipinska,23,F,Polish,Polish,,Christianity,Roman Catholicism,Karate
+Poland,,Warsaw,Lipinski,Lidia,Lipinska,19,F,Polish,Polish,,Christianity,Roman Catholicism,Judo
+Poland,,Warsaw,Lipinski,Grzegorz,Lipinski,15,M,Polish,Polish,,Christianity,Roman Catholicism,Karate
+Portugal,,Lisbon,Goncalves,Afonso,Goncalves,21,M,Portuguese,European Portuguese,,Christianity,Roman Catholicism,Taekkyeon
+Portugal,,Lisbon,Goncalves,Lorena,Goncalves,18,F,Portuguese,European Portuguese,,Christianity,Roman Catholicism,MMA
+Portugal,,Lisbon,Goncalves,Balbino,Goncalves,15,M,Portuguese,European Portuguese,,Christianity,Roman Catholicism,Wing chun
+Romania,,Bucharest,Iacobescu,Madalina,Iacobescu,24,F,Romanian,Romanian,,Christianity,Eastern Orthodoxy,Taijiquan
+Romania,,Bucharest,Iacobescu,Iolanda,Iacobescu,22,F,Romanian,Romanian,,Christianity,Eastern Orthodoxy,Baguazhang
+Romania,,Bucharest,Iacobescu,Decebal,Iacobescu,20,M,Romanian,Romanian,,Christianity,Eastern Orthodoxy,Pankration
+Romania,,Bucharest,Iacobescu,Vincentiu,Iacobescu,18,M,Romanian,Romanian,,Christianity,Eastern Orthodoxy,Sambo
+Russia,,Moscow,Sokolov,Valentina,Sokolova,26,F,Russian,Russian,,Christianity,Eastern Orthodoxy,Systema
+Russia,,Moscow,Sokolov,Gennadi,Sokolov,22,M,Russian,Russian,,Christianity,Eastern Orthodoxy,Sambo
+Russia,,Moscow,Sokolov,Natalia,Sokolova,18,F,Russian,Russian,,Christianity,Eastern Orthodoxy,Savate
+Russia,,Moscow,Sokolov,Vasili,Sokolov,14,M,Russian,Russian,,Christianity,Eastern Orthodoxy,Wrestling
+Russia,,Saint Petersburg,Shchegolev,Aleksei,Shchegolev,27,M,Russian,Russian,,Christianity,Eastern Orthodoxy,Tang soo do
+Russia,,Saint Petersburg,Shchegolev,Nadezhda,Shchegoleva,22,F,Russian,Russian,,Christianity,Eastern Orthodoxy,Aikido
+Russia,,Saint Petersburg,Shchegolev,Gleb,Shchegolev,17,M,Russian,Russian,,Christianity,Eastern Orthodoxy,Hapkido
+Russia,,Saint Petersburg,Shchegolev,Vera,Shchegoleva,12,F,Russian,Russian,,Christianity,Eastern Orthodoxy,Taekkyeon
+Russia,Novosibirsk Oblast,Novosibirsk,Voronin,Nikita,Voronin,21,M,Russian,Russian,,Christianity,Eastern Orthodoxy,Sambo
+Russia,Novosibirsk Oblast,Novosibirsk,Voronin,Svetlana,Voronina,19,F,Russian,Russian,,Christianity,Eastern Orthodoxy,Systema
+Russia,Novosibirsk Oblast,Novosibirsk,Voronin,Terenti,Voronin,17,M,Russian,Russian,,Christianity,Eastern Orthodoxy,Sambo
+Russia,Novosibirsk Oblast,Novosibirsk,Voronin,Oksana,Voronina,15,F,Russian,Russian,,Christianity,Eastern Orthodoxy,Systema
+Serbia,,Belgrade,Knezevic,Bojan,Knezevic,19,M,Serbian,Serbian,,Christianity,Eastern Orthodoxy,Sambo
+Serbia,,Belgrade,Knezevic,Goran,Knezevic,17,M,Serbian,Serbian,,Christianity,Eastern Orthodoxy,Pankration
+Serbia,,Belgrade,Knezevic,Sladana,Knezevic,15,F,Serbian,Serbian,,Christianity,Eastern Orthodoxy,Tang soo do
+Serbia,,Belgrade,Knezevic,Dusan,Knezevic,13,M,Serbian,Serbian,,Christianity,Eastern Orthodoxy,Taekwondo
+Singapore,,Singapore,Xie,Xuefei,Xie,26,F,Singaporean,Singaporean Mandarin,Singaporean English,Buddhism,Mahayana,Shequan 
+Singapore,,Singapore,Xie,Xuehua,Xie,24,F,Singaporean,Singaporean Mandarin,Singaporean English,Buddhism,Mahayana,Taijiquan
+Singapore,,Singapore,Xie,Xuejuan,Xie,22,F,Singaporean,Singaporean Mandarin,Singaporean English,Buddhism,Mahayana,Bajiquan
+Slovakia,,Bratislava,Stastny,Zuzana,Stastna,20,F,Slovak,Slovak,,Christianity,Roman Catholicism,Muay Thai
+Slovakia,,Bratislava,Stastny,Milena,Stastna,18,F,Slovak,Slovak,,Christianity,Roman Catholicism,Taekkyeon
+Slovakia,,Bratislava,Stastny,Rudolf,Stastny,16,M,Slovak,Slovak,,Christianity,Roman Catholicism,Huquan 
+Slovakia,,Bratislava,Stastny,Viktor,Stastny,14,M,Slovak,Slovak,,Christianity,Roman Catholicism,Judo
+Slovenia,,Ljubljana,Klemencic,Tomislav,Klemencic,21,M,Slovenian,Slovenian,,Christianity,Roman Catholicism,Pankration
+Slovenia,,Ljubljana,Klemencic,Borislav,Klemencic,18,M,Slovenian,Slovenian,,Christianity,Roman Catholicism,MMA
+Slovenia,,Ljubljana,Klemencic,Vladislav,Klemencic,15,M,Slovenian,Slovenian,,Christianity,Roman Catholicism,Taekkyeon
+Slovenia,,Ljubljana,Klemencic,Stanislav,Klemencic,12,M,Slovenian,Slovenian,,Christianity,Roman Catholicism,Wing chun
+Snjoeyjarian,,Odinshofn,Fridriksson,Brynhildr,Fridriksdottir,24,F,Snjoeyjarian,Snjoeyjarian,,Christianity,Lutheranism,Krav Maga
+Snjoeyjarian,,Odinshofn,Fridriksson,Sigurdr,Fridriksson,24,M,Snjoeyjarian,Snjoeyjarian,,Christianity,Lutheranism,Krav Maga
+South Korea,,Busan,Yun,Dae-seong,Yun,23,M,South Korean,Korean,,Buddhism,Mahayana,Taekkyeon
+South Korea,,Busan,Yun,Hyeon-jeong,Yun,18,F,South Korean,Korean,,Buddhism,Mahayana,Taekwondo
+South Korea,,Incheon,Son,Gyeong-hui,Son,21,F,South Korean,Korean,,Buddhism,Mahayana,Taekwondo
+South Korea,,Incheon,Son,Jeong-hui,Son,19,F,South Korean,Korean,,Buddhism,Mahayana,Hapkido
+South Korea,,Incheon,Son,Min-ho,Son,17,M,South Korean,Korean,,Buddhism,Mahayana,Tang soo do
+South Korea,,Seoul,Kim,Ha-na,Kim,22,F,South Korean,Korean,,Christianity,Presbyterianism,Tang soo do
+South Korea,,Seoul,Kim,Du-ri,Kim,20,F,South Korean,Korean,,Christianity,Presbyterianism,Taekkyeon
+South Korea,,Seoul,Kim,Sa-rang,Kim,18,F,South Korean,Korean,,Christianity,Presbyterianism,Taekwondo
+Spain,,Madrid,Lopez,Gonzalo,Lopez,23,M,Spanish,European Spanish,,Christianity,Roman Catholicism,Aikido
+Spain,,Madrid,Lopez,Mercedes,Lopez,20,F,Spanish,European Spanish,,Christianity,Roman Catholicism,Judo
+Spain,,Madrid,Lopez,Dolores,Lopez,17,F,Spanish,European Spanish,,Christianity,Roman Catholicism,Karate
+Spain,Catalonia,Barcelona,Noguera,Meritxell,Noguera,19,F,Spanish,Catalan,European Spanish,Christianity,Roman Catholicism,Savate
+Spain,Catalonia,Barcelona,Noguera,Oriol,Noguera,16,M,Spanish,Catalan,European Spanish,Christianity,Roman Catholicism,Silat Melayu
+Sweden,,Stockholm,Hakansson,Sigrid,Hakansson,23,F,Swedish,Swedish,,Christianity,Lutheranism,Jeet kune do
+Sweden,,Stockholm,Hakansson,Ingrid,Hakansson,19,F,Swedish,Swedish,,Christianity,Lutheranism,Silat Melayu
+Sweden,,Stockholm,Hakansson,Astrid,Hakansson,15,F,Swedish,Swedish,,Christianity,Lutheranism,Tang soo do
+Switzerland,Canton of Geneva,Geneva,Beaumont,Heloise,Beaumont,20,F,Swiss,European French,,Christianity,Roman Catholicism,Xingyiquan
+Switzerland,Canton of Geneva,Geneva,Beaumont,Francois,Beaumont,18,M,Swiss,European French,,Christianity,Roman Catholicism,Piguaquan
+Switzerland,Canton of Geneva,Geneva,Beaumont,Benjamin,Beaumont,16,M,Swiss,European French,,Christianity,Roman Catholicism,Longquan 
+Switzerland,Canton of Zurich,Zurich,Zellweger,Leopold,Zellweger,21,M,Swiss,German,,Christianity,Roman Catholicism,Wrestling
+Switzerland,Canton of Zurich,Zurich,Zellweger,Cordula,Zellweger,17,F,Swiss,German,,Christianity,Roman Catholicism,Piguaquan
+Switzerland,Canton of Zurich,Zurich,Zellweger,Ursula,Zellweger,17,F,Swiss,German,,Christianity,Roman Catholicism,Bajiquan
+Taiwan,,Taipei,Liu,Chin-lung,Liu,23,M,Taiwanese,Taiwanese Mandarin,Japanese,Buddhism,Mahayana,Jeet kune do
+Taiwan,,Taipei,Liu,Mei-feng,Liu,20,F,Taiwanese,Taiwanese Mandarin,Japanese,Buddhism,Mahayana,Bajiquan
+Taiwan,,Taipei,Liu,Mei-huang,Liu,20,F,Taiwanese,Taiwanese Mandarin,Japanese,Buddhism,Mahayana,Piguaquan
+Thailand,,Bangkok,Rungrueang,Somchai,Rungrueang,26,M,Thai,Thai,,Buddhism,Theravada,Muay Thai
+Thailand,,Bangkok,Rungrueang,Pornthip,Rungrueang,23,F,Thai,Thai,,Buddhism,Theravada,Silat Melayu
+Thailand,,Bangkok,Rungrueang,Chanchai,Rungrueang,20,M,Thai,Thai,,Buddhism,Theravada,Muay Thai
+Thailand,,Bangkok,Rungrueang,Sakchai,Rungrueang,17,M,Thai,Thai,,Buddhism,Theravada,Pencak Silat
+Thailand,,Chiang Mai,Chaisongkhram,Itthiphon,Chaisongkhram,21,M,Thai,Thai,,Buddhism,Theravada,Muay Thai
+Thailand,,Chiang Mai,Chaisongkhram,Chaloemphon,Chaisongkhram,18,M,Thai,Thai,,Buddhism,Theravada,Silat Melayu
+Thailand,,Chiang Mai,Chaisongkhram,Jiraphon,Chaisongkhram,15,M,Thai,Thai,,Buddhism,Theravada,Pencak Silat
+Turkey,,Istanbul,Bolukbasi,Kivanc,Bolukbasi,20,M,Turkish,Turkish,,Islam,Sunni,Pankration
+Turkey,,Istanbul,Bolukbasi,Sevinc,Bolukbasi,20,F,Turkish,Turkish,,Islam,Sunni,Kickboxing
+Turkey,,Istanbul,Bolukbasi,Ayla,Bolukbasi,18,F,Turkish,Turkish,,Islam,Sunni,MMA
+Turkey,,Istanbul,Bolukbasi,Damla,Bolukbasi,16,F,Turkish,Turkish,,Islam,Sunni,Boxing
+UK,England,Birmingham,Khan,Malik,Khan,20,M,British,British English,Urdu,Islam,Sunni,Wrestling
+UK,England,Birmingham,Khan,Zayn,Khan,20,M,British,British English,Urdu,Islam,Sunni,Boxing
+UK,England,Birmingham,Khan,Fareeha,Khan,16,F,British,British English,Urdu,Islam,Sunni,Kickboxing
+UK,England,London,Dickinson,Elliott,Dickinson,27,M,British,British English,,Christianity,Anglicanism,Boxing
+UK,England,London,Dickinson,Esmee,Dickinson,24,F,British,British English,,Christianity,Anglicanism,Kickboxing
+UK,England,London,Dickinson,Esther,Dickinson,21,F,British,British English,,Christianity,Anglicanism,Savate
+UK,England,London,Dickinson,Ethan,Dickinson,18,M,British,British English,,Christianity,Anglicanism,Wrestling
+UK,England,Manchester,Mekonnen,Yohanna,Mekonnen,19,F,British,British English,Amharic,Christianity,Anglicanism,Pankration
+UK,Scotland,Edinburgh,Oduwole,Adetokunbo,Oduwole,20,M,British,British English,,Christianity,Presbyterianism,Wrestling
+UK,Scotland,Edinburgh,Oduwole,Olatokunbo,Oduwole,17,F,British,British English,,Christianity,Presbyterianism,Kickboxing
+UK,Scotland,Glasgow,MacDonald,Bruce,MacDonald,21,M,British,British English,,Christianity,Presbyterianism,Taekwondo
+UK,Scotland,Glasgow,MacDonald,Kenneth,MacDonald,19,M,British,British English,,Christianity,Presbyterianism,Muay Thai
+UK,Scotland,Glasgow,MacDonald,Grant,MacDonald,17,M,British,British English,,Christianity,Presbyterianism,Jeet kune do
+Ukraine,,Kiev,Tereshchenko,Vitali,Tereshchenko,25,M,Ukrainian,Ukrainian,,Christianity,Eastern Orthodoxy,Taekwondo
+Ukraine,,Kiev,Tereshchenko,Taras,Tereshchenko,23,M,Ukrainian,Ukrainian,,Christianity,Eastern Orthodoxy,Hapkido
+Ukraine,,Kiev,Tereshchenko,Anastasia,Tereshchenko,21,F,Ukrainian,Ukrainian,,Christianity,Eastern Orthodoxy,Systema
+Ukraine,,Kiev,Tereshchenko,Zinaida,Tereshchenko,19,F,Ukrainian,Ukrainian,,Christianity,Eastern Orthodoxy,Aikido
+USA,Arizona,Phoenix,Begaye,Dylan,Begaye,26,M,American,American English,Mexican Spanish,Christianity,Roman Catholicism,Aikido
+USA,Arizona,Phoenix,Begaye,Molly,Begaye,23,F,American,American English,Mexican Spanish,Christianity,Roman Catholicism,Judo
+USA,Arizona,Phoenix,Begaye,Emmett,Begaye,20,M,American,American English,Mexican Spanish,Christianity,Roman Catholicism,Karate
+USA,California,Los Angeles,Baghdasarian,Tigran,Baghdasarian,19,M,American,American English,Armenian,Christianity,Armenian Orthodoxy,Pankration
+USA,California,San Diego,Manalo,Bruno,Manalo,25,M,American,American English,Tagalog,Christianity,Roman Catholicism,Arnis
+USA,California,San Diego,Manalo,Victoria,Manalo,22,F,American,American English,Tagalog,Christianity,Roman Catholicism,Pencak Silat
+USA,California,San Diego,Manalo,Amanda,Manalo,19,F,American,American English,Tagalog,Christianity,Roman Catholicism,Muay Thai
+USA,California,San Diego,Manalo,Corazon,Manalo,16,F,American,American English,Tagalog,Christianity,Roman Catholicism,Kickboxing
+USA,California,San Francisco,Cheng,Baoqiang,Cheng,29,M,American,American English,Chinese Mandarin,Christianity,Presbyterianism,Xingyiquan
+USA,California,San Francisco,Cheng,Xiuying,Cheng,26,F,American,American English,Chinese Mandarin,Christianity,Presbyterianism,Baguazhang
+USA,California,San Francisco,Cheng,Xiulan,Cheng,23,F,American,American English,Chinese Mandarin,Christianity,Presbyterianism,Taijiquan
+USA,Florida,Miami,Chavez,Azucena,Chavez,24,F,American,American English,Venezuelan/Cuban Spanish,Christianity,Roman Catholicism,MMA
+USA,Florida,Miami,Chavez,Yesenia,Chavez,22,F,American,American English,Venezuelan/Cuban Spanish,Christianity,Roman Catholicism,Savate
+USA,Florida,Miami,Chavez,Dafne,Chavez,20,F,American,American English,Venezuelan/Cuban Spanish,Christianity,Roman Catholicism,Boxing
+USA,Florida,Miami,Chavez,Roberto,Chavez,18,M,American,American English,Venezuelan/Cuban Spanish,Christianity,Roman Catholicism,Wrestling
+USA,Hawaii,Honolulu,Kamealoha,Hokulani,Kamealoha,26,F,American,American English,Japanese,Christianity,Anglicanism,Karate
+USA,Hawaii,Honolulu,Kamealoha,Leilani,Kamealoha,24,F,American,American English,Japanese,Christianity,Anglicanism,Karate
+USA,Hawaii,Honolulu,Kamealoha,Noelani,Kamealoha,22,F,American,American English,Japanese,Christianity,Anglicanism,Karate
+USA,Hawaii,Honolulu,Kamealoha,Haulani,Kamealoha,20,F,American,American English,Japanese,Christianity,Anglicanism,Karate
+USA,Illinois,Chicago,Rostami,Parvaneh,Rostami,20,F,American,American English,Persian,Baha'i,,Pankration
+USA,Illinois,Chicago,Rostami,Shahin,Rostami,18,M,American,American English,Persian,Baha'i,,MMA
+USA,Illinois,Chicago,Rostami,Laleh,Rostami,16,F,American,American English,Persian,Baha'i,,Kickboxing
+USA,New Jersey,Newark,Bayoumi,Salib,Bayoumi,21,M,American,American English,Egyptian Arabic,Christianity,Coptic Orthodoxy,MMA
+USA,New Jersey,Newark,Bayoumi,Labib,Bayoumi,18,M,American,American English,Egyptian Arabic,Christianity,Coptic Orthodoxy,Wrestling
+USA,New Jersey,Newark,Bayoumi,Eman,Bayoumi,15,F,American,American English,Egyptian Arabic,Christianity,Coptic Orthodoxy,Savate
+USA,New Jersey,Newark,Bayoumi,Habib,Bayoumi,12,M,American,American English,Egyptian Arabic,Christianity,Coptic Orthodoxy,BJJ
+USA,New York,New York,Cohen,Gal,Cohen,27,F,American,American English,Hebrew,Judaism,,Krav Maga
+USA,New York,New York,Cohen,Dov,Cohen,24,M,American,American English,Hebrew,Judaism,,Krav Maga
+USA,New York,New York,Cohen,Ze'ev,Cohen,21,M,American,American English,Hebrew,Judaism,,Krav Maga
+USA,Pennsylvania,Philadelphia,Ocasio,Joshua,Ocasio,18,M,American,American English,Puerto Rican Spanish,Christianity,Roman Catholicism,Huquan 
+USA,Pennsylvania,Philadelphia,Ocasio,Jeremy,Ocasio,15,M,American,American English,Puerto Rican Spanish,Christianity,Roman Catholicism,Baoquan 
+USA,Pennsylvania,Philadelphia,Ocasio,Jessica,Ocasio,12,F,American,American English,Puerto Rican Spanish,Christianity,Roman Catholicism,Shequan 
+USA,Texas,Dallas,Scott,Darnell,Scott,21,M,American,American English,,Christianity,Methodist,Boxing
+USA,Texas,Dallas,Scott,Tyrone,Scott,19,M,American,American English,,Christianity,Methodist,Wrestling
+USA,Texas,Dallas,Scott,Lamar,Scott,17,M,American,American English,,Christianity,Methodist,Kickboxing
+USA,Texas,Houston,Tran,Ngoc Bich,Tran,28,F,American,American English,Vietnamese,Christianity,Roman Catholicism,Shequan 
+USA,Texas,Houston,Tran,Tuan,Tran,26,M,American,American English,Vietnamese,Christianity,Roman Catholicism,Huquan 
+USA,Texas,Houston,Tran,Dung,Tran,24,M,American,American English,Vietnamese,Christianity,Roman Catholicism,Baoquan 
+USA,Texas,Houston,Tran,Hung,Tran,22,M,American,American English,Vietnamese,Christianity,Roman Catholicism,Longquan 
+USA,Texas,San Antonio,Armstrong,Ferdinand,Armstrong,27,M,American,American English,,Christianity,Presbyterianism,Krav Maga
+USA,Texas,San Antonio,Armstrong,Felix,Armstrong,23,M,American,American English,,Christianity,Presbyterianism,Krav Maga
+USA,Washington,Seattle,Watanabe,Kimberly,Watanabe,26,F,American,American English,Japanese,Christianity,Anglicanism,Ninjutsu
+USA,Washington,Seattle,Watanabe,Blake,Watanabe,22,M,American,American English,Japanese,Christianity,Anglicanism,Ninjutsu
+Vietnam,,Hanoi,Dang,Khoi,Dang,20,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Shequan 
+Vietnam,,Hanoi,Dang,Cong,Dang,16,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Baoquan 
+Vietnam,,Ho Chi Minh City,Nguyen,Duong,Nguyen,27,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Wing chun
+Vietnam,,Ho Chi Minh City,Nguyen,Vinh,Nguyen,25,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Baoquan 
+Vietnam,,Ho Chi Minh City,Nguyen,Quyen,Nguyen,23,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Huquan 
+Vietnam,,Ho Chi Minh City,Nguyen,Hieu,Nguyen,21,M,Vietnamese,Vietnamese,,Buddhism,Mahayana,Jeet kune do
